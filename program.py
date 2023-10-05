@@ -5,4 +5,4 @@ def myfunction(aidan):
     myfunction = "Hello " + aidan
     return myfunction
 
-print(myfunction("world"))
+print(myfunction("aidan"))
